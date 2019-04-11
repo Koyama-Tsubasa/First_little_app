@@ -1,5 +1,5 @@
 <resources>
     <string name="hello">Hello World, EX03_01</string>
     <string name="app_name">EX03_01</string>
-    <string name="str_1">"I am a string given in res/values/strings.xml"</string>
+    <string name="str_1">"My name is 小山翼 , 406410364."</string>
 </resources>
